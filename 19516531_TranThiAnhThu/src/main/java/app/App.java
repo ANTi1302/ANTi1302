@@ -109,7 +109,8 @@ public class App {
 		
 		
 //		Liệt kê n email của người dùng, có bình luận trên các bộ phim. Yêu cầu phải tạo index và trùng thì chỉ in 1 lần 
-		
+//		Trường hợp Select thì bạn mới dùng excuteQuery() nhá
+//          Trường hợp Update,delete,insert thì bạn dùng excuteUpdate(),hàm này return kiểu int nhé.
 		
 	}
 }
